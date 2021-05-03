@@ -139,11 +139,10 @@ a {
   .round {
     border-radius: 50%;
   }
-.footer{
+footer{
     width: 100%;
 }
   .pagefinal{
-      width:100%;
       background-color: #04AA6D;
       box-sizing: content-box;
       color: #fff;
