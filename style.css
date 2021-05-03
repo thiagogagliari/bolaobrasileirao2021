@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
+    width: 100%;
     background-image: url(https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2964273:1594310057/taca-br.jpeg?f=16x9&$p$f=4333b91);
     background-repeat: no-repeat;
     margin: 0;
