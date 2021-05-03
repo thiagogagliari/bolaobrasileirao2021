@@ -140,6 +140,7 @@ a {
   }
 
   .pagefinal{
+      width:^100%;
       background-color: #04AA6D;
       box-sizing: content-box;
       color: #fff;
