@@ -188,6 +188,7 @@ td{
 }
 .placar{
     background-color: #fff;
+    text-align: center;
 }
 .placar__header__localData{
     color: #555;
