@@ -227,6 +227,7 @@ td{
 }
 .placar__equipe__header--mandante{
     text-align: right;
+    box-sizing: content-box;
 }
 .placar__equipe__header__nome{
     display: block;
