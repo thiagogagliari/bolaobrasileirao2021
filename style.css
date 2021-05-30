@@ -254,7 +254,7 @@ td{
 .placar__equipe__atletas--nomes{
     color: #666;
     display: block;
-    font: 10px;
+    font-size: 5px;
     padding-top: 3px;
     padding-bottom: 1px;
 }
