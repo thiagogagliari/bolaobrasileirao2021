@@ -290,6 +290,15 @@ td{
     background-color: #fff;
     display: block;
 }
+.manchete{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    letter-spacing: -0.09375rem;
+    font-family: 'Roboto', sans-serif;
+}
 .lista-times img{
     margin: 10px 5px 10px;
 }
