@@ -290,7 +290,7 @@ td{
     background-color: #fff;
     display: block;
 }
-.manchete{
+.manchete, h1{
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     font-weight: 700;
