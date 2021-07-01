@@ -300,6 +300,10 @@ td{
     letter-spacing: -0.09375rem;
     font-family: 'Roboto', sans-serif;
 }
+.submanchete{
+    margin-top: 1rem;
+    color: #333;
+}
 .lista-times img{
     margin: 10px 5px 10px;
 }
